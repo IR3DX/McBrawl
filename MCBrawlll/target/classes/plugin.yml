@@ -1,0 +1,13 @@
+name: MCBrawl
+version: 'Alpha 0.4'
+main: me.r3dx.mcbrawl.MCBrawl
+authors: [ R3D ]
+description: Bring Valhalla's joy to Minecraft!
+commands:
+  play:
+    description: Set spawn after 3 stocks and start playing
+    usage: /<command>
+  SetLocation:
+    description: Set the first and second map spawns
+    usage: /<command> number
+    aliases: SetLoc
